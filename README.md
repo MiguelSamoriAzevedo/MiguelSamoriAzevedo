@@ -1,8 +1,6 @@
 
 # 👋 Olá, eu sou [Seu Nome]!
 
-![Minha Foto](https://github.com/MiguelSamoriAzevedo/Imagens/blob/main/Snapchat-132986856.jpg)
-
 ## Sobre mim
 Eu sou um **Desenvolvedor Full Stack** com uma sólida experiência de 34 anos na área de **Contabilidade** e **Consultoria Empresarial**. Recentemente, fiz uma **transição de carreira** para a **programação**, com foco em desenvolvimento de sistemas e bancos de dados.
 
