@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou Christiano Miguel, mas prefiro ser Miguel!
 
 ## Sobre mim
-Após 34 anos de experiência e construir uma carreira sólida na área de **Contabilidade**, Docência e **Consultoria Empresarial**. Recentemente, fiz uma **transição de carreira** para a área de Tecnologia da Informação. Me tornei **Programador Full Stack**, com foco em desenvolvimento de sistemas web e Bancos de dados.
+Após 34 anos de experiência e construir uma carreira sólida na área de **Contabilidade**, Docência e **Consultoria Empresarial** recentemente, fiz uma **transição de carreira** para a área de Tecnologia da Informação. Me tornei **Programador Full Stack**, com foco em desenvolvimento de sistemas web e Bancos de dados.
 
 - 🎓 **Formação**: Analista de Sistemas| Esp. em Adm de Banco de Dados pela Fac. Metropolitana de Ribeirão Preto.
 - 👨‍🏫 **Experiência**: 3 anos como Professor nos Cursos de Programação, c/ as disciplinas **Arte Digital**, **Banco de Dados** e **Front-end**.
