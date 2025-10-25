@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Christiano Miguel, mas prefiro ser Miguel!
+# 👋 Olá, meu nome é Christiano Miguel, mas prefiro ser Miguel!
 
 ## Sobre mim
 Após 34 anos de experiência e construir uma carreira sólida na área de **Contabilidade**, Docência e **Consultoria Empresarial** recentemente, fiz uma **transição de carreira** para a área de Tecnologia da Informação. Me tornei **Programador Full Stack**, com foco em desenvolvimento de sistemas web e Bancos de dados.
