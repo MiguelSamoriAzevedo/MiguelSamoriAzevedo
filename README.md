@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
 ## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [🚗 Sistema de Banco de Dados para Locadora de Veículos](link-para-o-repositorio): Um sistema completo de gestão de veículos, clientes e reservas.
+- [🚗 Sistema de Banco de Dados para Locadora de Veículos]([link-para-o-repositorio](https://github.com/MiguelSamoriAzevedo/GoDrive_DB)): Um sistema completo de gestão de veículos, clientes e reservas.
 - [🎮 Game de Aventura e Espiritualidade](link-para-o-repositorio): Um jogo onde os jogadores passam por desafios e fazem sua reforma íntima para evoluir espiritualmente.
 - [🎓 Cursos Online para Associação Espírita](link-para-o-repositorio): Plataforma de cursos voltada ao público jovem, desenvolvida para uma associação espírita.
 
