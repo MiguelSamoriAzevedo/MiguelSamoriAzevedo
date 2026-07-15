@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [🚗 Sistema de Banco de Dados para Locadora de Veículos]([link-para-o-repositorio](https://github.com/MiguelSamoriAzevedo/GoDrive_DB)): Um sistema completo de gestão de veículos, clientes e reservas.
-- [🎮 DonaKa - Ecommerce usando API](link-para-o-repositorio): Um ecommerce completo em homenagem a minha Esposa Karina.
+- [🎮 DonaKa - Ecommerce usando API]([https://donaka.netlify.app/): Um ecommerce completo em homenagem a minha Esposa Karina.
 - [🎓 Plataforma Nosso Lar](link-para-o-repositorio): Plataforma de cursos voltada ao público jovem, desenvolvida para uma associação espírita.
 
 ## 📫 Como me encontrar
